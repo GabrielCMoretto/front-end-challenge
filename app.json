@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "frond-end-challenge",
+    "name": "front-end-challenge",
     "slug": "front-end-challenge",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,12 +28,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "7f6da874-e760-4fc3-ad4c-ffa0dc98b7e5"
-      }
-    },
-    "owner": "gabrielcmoretto"
+    }
   }
 }
